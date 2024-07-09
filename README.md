@@ -14,7 +14,7 @@ Soy un ingeniero en sistemas de Bogotá, Colombia, con una pasión por la tecnol
 
 ## Contacto
 - **Correo**: ales80704@gmail.com
-- **LinkedIn**: [Alexander](https://www.linkedin.com/in/Alexander92614)
+- **LinkedIn**: [Alexander](www.linkedin.com/in/alexander-rico-nossa-90b6a2312)
 
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alexander92614&show_icons=true&theme=radical)
